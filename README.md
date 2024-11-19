@@ -1,6 +1,6 @@
 # Markdown and Git Homework
 
-Aquest projecte és un exercici per practicar l'ús de Git i GitHub, així com la sintaxi Markdown.
+Aquest projecte és un exercici per practicar l'ús de Git i GitHub, així com la sintaxi Markdown. Pots trobar més informació a la [Git Documentation](https://git-scm.com/doc).
 
 ## Table of Contents
 
