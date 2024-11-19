@@ -12,20 +12,22 @@ Aquest projecte és un exercici per practicar l'ús de Git i GitHub, així com l
 
 ## Introduction
 
-(Descripció breu de la introducció)
+Aquest projecte tracta sobre...
 
 ## Features
 
-(Llista de característiques)
+- Suport per a Markdown
+- Introducció a Git
 
 ## Installation
 
-(Instruccions d'instal·lació)
+1. Clona el repositori.
+2. Navega al directori.
 
 ## Usage
 
-(Com utilitzar el projecte)
+Utilitza el projecte per practicar les comandes bàsiques de Git.
 
 ## License
 
-(Detalls de la llicència)
+Aquest projecte està sota la llicència MIT.
