@@ -12,12 +12,17 @@ Aquest projecte és un exercici per practicar l'ús de Git i GitHub, així com l
 
 ## Introduction
 
-Aquest projecte tracta sobre...
+Aquest projecte tracta sobre..
+
+![Project Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s)
 
 ## Features
 
-- Suport per a Markdown
-- Introducció a Git
+| Feature         | Description                                | Status      |
+| --------------- | ------------------------------------------ | ----------- |
+| Markdown Syntax | Suport per sintaxi Markdown                | Completed   |
+| Git Integration | Integració amb Git per control de versions | In Progress |
+| Preview Mode    | Mode de vista prèvia de Markdown           | Pending     |
 
 ## Installation
 
