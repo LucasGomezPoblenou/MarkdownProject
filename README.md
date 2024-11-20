@@ -18,6 +18,14 @@ Aquest projecte tracta sobre..
 
 ## Features
 
+Aquesta eina te diverses caracteristiques importants que faciliten el treball:
+
+- **Suport complet per a Markdown** per a una documentacio clara i facil de llegir.
+- _Integracio amb Git_ per al control de versions.
+- El sistema esta dissenyat per ser facil d'usar, amb nomes algunes comandes basiques, com per exemple `git commit` per fer commits a Git.
+
+> "Code is like humor. When you have to explain it, its bad." - Cory House
+
 | Feature         | Description                                | Status      |
 | --------------- | ------------------------------------------ | ----------- |
 | Markdown Syntax | Suport per sintaxi Markdown                | Completed   |
@@ -31,8 +39,20 @@ Aquest projecte tracta sobre..
 
 ## Usage
 
-Utilitza el projecte per practicar les comandes bàsiques de Git.
+Aqui teniu un exemple simple d'una funcio Python per sumar dos numeros:
+
+```python
+# This is a simple Python function to add two numbers
+def add_numbers(a, b):
+    """Return the sum of a and b."""
+    return a + b
+
+# Example usage
+result = add_numbers(5, 7)
+print("The sum is:", result)
+
 
 ## License
 
-Aquest projecte està sota la llicència MIT.
+Aquest projecte esta sota la llicencia MIT.
+```
