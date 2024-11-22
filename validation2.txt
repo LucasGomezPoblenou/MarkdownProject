@@ -1,0 +1,80 @@
+commit b4a4e445b2a1c1d76f95468aabe88abf686888a4
+Merge: 74c7020 6c64ecc
+Author: LucasGomezPoblenou <54569095p@iespoblenou.org>
+Date:   Thu Nov 21 14:23:07 2024 +0100
+
+    Merge pull request #2 from LucasGomezPoblenou/feature/1-contribution-guidelines
+    
+    Add contribution guidelines
+
+commit 6c64eccd9a00eedf4194a796adead85b868ecdcb
+Author: Lucas <54569095p@iespoblenou.org>
+Date:   Thu Nov 21 12:28:12 2024 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 17 +++++++++++++++++
+ 1 file changed, 17 insertions(+)
+
+commit 74c7020df23044f17da9d314b58d3e2e31ebf9c1
+Author: Lucas <54569095p@iespoblenou.org>
+Date:   Wed Nov 20 08:32:34 2024 +0100
+
+    Enhance README with formatting
+
+ README.md | 24 ++++++++++++++++++++++--
+ 1 file changed, 22 insertions(+), 2 deletions(-)
+
+commit e8ed70b2b418ab438c1d651a6eec17005c50c18f
+Author: Lucas <54569095p@iespoblenou.org>
+Date:   Tue Nov 19 11:38:09 2024 +0100
+
+    Add feature list table to README
+
+ README.md | 11 ++++++++---
+ 1 file changed, 8 insertions(+), 3 deletions(-)
+
+commit dd2dd790a4e1e27cd6b4acfbb1425e6aa494fab4
+Author: Lucas <54569095p@iespoblenou.org>
+Date:   Tue Nov 19 09:36:55 2024 +0100
+
+    Add sections to README
+
+ README.md | 12 +++++++-----
+ 1 file changed, 7 insertions(+), 5 deletions(-)
+
+commit 36ba3d14cf6255a3500cd003ea4f30a2748f8300
+Author: Lucas <54569095p@iespoblenou.org>
+Date:   Tue Nov 19 09:35:20 2024 +0100
+
+    Add hyperlinks to README
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 4c0f92aa214b8dc45d077b776b441027cc49864e
+Author: Lucas <54569095p@iespoblenou.org>
+Date:   Tue Nov 19 09:32:23 2024 +0100
+
+    Add Table of Contents to README
+
+ README.md | 31 +++++++++++++++++++++++++++++++
+ 1 file changed, 31 insertions(+)
+
+commit 1d755502cb54d0a02513d6a2b0a89f947603c33d
+Author: Lucas <54569095p@iespoblenou.org>
+Date:   Tue Nov 19 09:28:10 2024 +0100
+
+    Add README with project introduction
+
+ README.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 2019db92f923d20dc5d8aca43b81d3d8bd0db931
+Author: Lucas <54569095p@iespoblenou.org>
+Date:   Tue Nov 19 09:24:08 2024 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
